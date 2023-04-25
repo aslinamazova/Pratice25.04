@@ -1,0 +1,15 @@
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.csproj.AssemblyReference.cache
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.AssemblyInfoInputs.cache
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.AssemblyInfo.cs
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.09\Desktop\25.04Pratice\bin\Debug\net6.0\25.04Pratice.exe
+C:\Users\CA.R215.09\Desktop\25.04Pratice\bin\Debug\net6.0\25.04Pratice.deps.json
+C:\Users\CA.R215.09\Desktop\25.04Pratice\bin\Debug\net6.0\25.04Pratice.runtimeconfig.json
+C:\Users\CA.R215.09\Desktop\25.04Pratice\bin\Debug\net6.0\25.04Pratice.dll
+C:\Users\CA.R215.09\Desktop\25.04Pratice\bin\Debug\net6.0\25.04Pratice.pdb
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.dll
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\refint\25.04Pratice.dll
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.pdb
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\25.04Pratice.genruntimeconfig.cache
+C:\Users\CA.R215.09\Desktop\25.04Pratice\obj\Debug\net6.0\ref\25.04Pratice.dll
